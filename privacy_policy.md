@@ -1,8 +1,6 @@
 # Privacy Policy
 
-**Effective Date:** [Insert Date]
-
-This Privacy Policy describes how [Your Company Name] ("we," "us," or "our") collects, uses, and protects your information when you use the UV Raydar mobile application ("the App"). We are committed to protecting your privacy and handling your data responsibly.
+This Privacy Policy describes how Lindsey Prentice ("we," "us," or "our") collects, uses, and protects your information when you use the UV Raydar mobile application ("the App"). We are committed to protecting your privacy and handling your data responsibly.
 
 ## 1. Information We Collect
 
@@ -187,24 +185,3 @@ If you are in the European Union, you may have additional rights under the Gener
 - Right to delete your data
 - Right to restrict processing
 - Right to data portability
-
-## 13. Contact Us
-
-If you have questions, concerns, or requests regarding this Privacy Policy or our data practices, please contact us:
-
-**[Your Company Name]**
-Email: [Your Email Address]
-Address: [Your Address]
-
-**For Privacy-Related Inquiries:**
-Subject Line: "UV Raydar Privacy Inquiry"
-
-We will respond to privacy inquiries within a reasonable timeframe and work to address your concerns.
-
-## 14. Data Protection Officer
-
-If required by law, you can contact our Data Protection Officer at: [DPO Email Address]
-
----
-
-*This Privacy Policy was last updated on [Date]. We recommend reviewing this policy periodically to stay informed about how we protect your information.*

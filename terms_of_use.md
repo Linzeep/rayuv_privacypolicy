@@ -1,8 +1,6 @@
 # Terms of Use
 
-**Effective Date:** [Insert Date]
-
-Welcome to UV Raydar ("the App"). These Terms of Use ("Terms") govern your use of the UV Raydar mobile application provided by [Your Company Name] ("we," "us," or "our"). By downloading, installing, or using the App, you agree to be bound by these Terms.
+Welcome to Raydar UV ("the App"). These Terms of Use ("Terms") govern your use of the UV Raydar mobile application provided by Lindsey Prentice ("we," "us," or "our"). By downloading, installing, or using the App, you agree to be bound by these Terms.
 
 ## 1. Acceptance of Terms
 
@@ -127,26 +125,10 @@ We may terminate or suspend your access to the App at any time, with or without 
 
 The App is intended for use worldwide, but weather data availability and accuracy may vary by location. Some features may not be available in all regions.
 
-## 14. Governing Law
-
-These Terms shall be governed by and construed in accordance with the laws of [Your Jurisdiction], without regard to conflict of law principles.
-
-## 15. Severability
+## 14. Severability
 
 If any provision of these Terms is found to be unenforceable, the remaining provisions will remain in full force and effect.
 
-## 16. Entire Agreement
+## 15. Entire Agreement
 
 These Terms, together with our Privacy Policy, constitute the entire agreement between you and us regarding the App.
-
-## 17. Contact Information
-
-If you have questions about these Terms, please contact us at:
-
-**[Your Company Name]**
-Email: [Your Email Address]
-Address: [Your Address]
-
----
-
-*Last Updated: [Date]*

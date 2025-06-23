@@ -28,7 +28,7 @@ We cannot guarantee the continuous availability of third-party weather services.
 ## 4. Medical and Health Disclaimers
 
 ### 4.1 Not Medical Advice
-**IMPORTANT: The information provided by UV Raydar is for general informational purposes only and should NOT be considered medical advice.** The App does not:
+**IMPORTANT: The information provided by Raydar UV is for general informational purposes only and should NOT be considered medical advice.** The App does not:
 - Provide medical recommendations
 - Replace professional medical consultation
 - Offer treatment for any medical conditions

@@ -143,45 +143,32 @@ We implement appropriate security measures to protect your information:
 - Clearing app data through device settings will remove all stored information
 - Contact us if you need assistance with data deletion
 
-## 7. Children's Privacy
-
-UV Raydar is not intended for children under 13 years of age. We do not knowingly collect personal information from children under 13. If we become aware that we have collected such information, we will take steps to delete it promptly.
-
-## 8. International Data Transfers
+## 7. International Data Transfers
 
 If you use the app outside the country where our servers are located, your information may be transferred internationally. We ensure appropriate safeguards are in place to protect your data during such transfers.
 
-## 9. Changes to This Privacy Policy
+## 8. Changes to This Privacy Policy
 
-### 9.1 Updates
+### 8.1 Updates
 We may update this Privacy Policy from time to time to reflect:
 - Changes in our data practices
 - New features or functionality
 - Legal or regulatory requirements
 - Industry best practices
 
-### 9.2 Notification
+### 8.2 Notification
 We will notify you of significant changes through:
 - In-app notifications
 - Updates to this policy with a new effective date
 - Other reasonable communication methods
 
-### 9.3 Continued Use
+### 8.3 Continued Use
 Your continued use of the app after policy changes constitutes acceptance of the updated Privacy Policy.
 
-## 10. Third-Party Links and Services
+## 9. Third-Party Links and Services
 
 The app may contain links to third-party websites or services. This Privacy Policy does not apply to those third parties. We encourage you to review their privacy policies before providing them with your information.
 
-## 11. California Privacy Rights (CCPA)
+## 10. California Privacy Rights (CCPA)
 
 If you are a California resident, you may have additional rights regarding your personal information under the California Consumer Privacy Act (CCPA). Contact us using the information below to exercise these rights.
-
-## 12. European Privacy Rights (GDPR)
-
-If you are in the European Union, you may have additional rights under the General Data Protection Regulation (GDPR), including:
-- Right to access your personal data
-- Right to correct inaccurate data
-- Right to delete your data
-- Right to restrict processing
-- Right to data portability

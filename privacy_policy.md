@@ -1,6 +1,6 @@
 # Privacy Policy
 
-This Privacy Policy describes how Lindsey Prentice ("we," "us," or "our") collects, uses, and protects your information when you use the UV Raydar mobile application ("the App"). We are committed to protecting your privacy and handling your data responsibly.
+This Privacy Policy describes how Lindsey Prentice ("we," "us," or "our") collects, uses, and protects your information when you use the Raydar UV mobile application ("the App"). We are committed to protecting your privacy and handling your data responsibly.
 
 ## 1. Information We Collect
 
